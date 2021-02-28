@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Peng Lab in Marine Microbial Ecology"
 title_separator          : "-"
 name                     : &name "Xuefeng (Nick) Peng"
-description              : &description "School of Earth, Ocean and Environment, University of South Carolina"
+description              : &description "Assitant Professor"
 url                      : https://marinemicrobe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "marinemicrobe.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
