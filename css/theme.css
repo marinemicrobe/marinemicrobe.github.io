@@ -520,6 +520,15 @@ li.publication {
 	object-fit: cover;
 }
 
+.blog-hero.contain {
+	display: block;
+	width: auto;
+	max-width: 100%;
+	max-height: 720px;
+	margin: 0 auto;
+	object-fit: contain;
+}
+
 .blog-photo {
 	max-height: 560px;
 	object-fit: cover;
@@ -542,7 +551,7 @@ li.publication {
 	color: #666;
 	font-size: 13px;
 	line-height: 1.4;
-	margin: -8px auto 22px;
+	margin: 6px auto 22px;
 	text-align: center;
 }
 
