@@ -532,6 +532,20 @@ li.publication {
 	margin: 10px auto 18px;
 }
 
+.blog-photo.landscape {
+	display: block;
+	width: 100%;
+	margin: 10px auto 18px;
+}
+
+.blog-caption {
+	color: #666;
+	font-size: 13px;
+	line-height: 1.4;
+	margin: -8px auto 22px;
+	text-align: center;
+}
+
 .page-header h3 a:hover {
 	text-decoration: none;
 }
