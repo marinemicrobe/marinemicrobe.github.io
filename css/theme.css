@@ -84,6 +84,20 @@ body>.navbar .brand:hover {
 	.bs-docs-sidenav {
 		display: none !important;
 	}
+
+	.navbar .nav {
+		display: grid;
+		grid-template-columns: repeat(3, minmax(0, 1fr));
+	}
+
+	.navbar .nav li {
+		display: block;
+		width: auto;
+	}
+
+	.navbar .nav li a {
+		box-sizing: border-box;
+	}
 }
 
 .bs-docs-sidenav {
@@ -545,6 +559,10 @@ li.publication {
 	display: block;
 	width: 100%;
 	margin: 10px auto 18px;
+}
+
+.blog-photo-pair .blog-photo {
+	margin-bottom: 6px;
 }
 
 .blog-caption {
